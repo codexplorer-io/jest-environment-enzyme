@@ -1,0 +1,9 @@
+{
+  "name": "jest-environment-enzyme",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "peerDependencies": {
+    "enzyme": "*",
+    "jest-environment-jsdom": "*"
+  }
+}
